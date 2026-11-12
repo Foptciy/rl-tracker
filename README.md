@@ -8,7 +8,7 @@ Download **RLTracker-Setup** for Windows 10/11 (64-bit). A portable ZIP is also 
 
 Win Songs includes song uploads, waveform trimming, random selection, tournament warmup playlists, fades, kickoff timing, and Spotify volume controls. The song editor and desktop runtime are included in the download.
 
-After installing, set your Rocket League player name in the app. In Settings, enable the local Stats API if needed and restart Rocket League. Keep RL Tracker open while playing to record matches automatically.
+The app can read your signed-in Rocket League account from the local game log; you can also set your player name in Settings. If Rocket League's Stats API is disabled, a popup offers **Enable Stats API**. After enabling it, fully close and restart Rocket League. Keep RL Tracker open while playing to record matches automatically.
 
 The HUD is enabled by default on new profiles and appears while Rocket League is focused. For an existing profile, open **Overlay studio** and select **Launch overlay** if it is hidden. Match the interface scale to Rocket League's setting. Use borderless/windowed mode for desktop overlays.
 
