@@ -10,6 +10,8 @@ Win Songs includes song uploads, waveform trimming, random selection, tournament
 
 After installing, set your Rocket League player name in the app. In Settings, enable the local Stats API if needed and restart Rocket League. Keep RL Tracker open while playing to record matches automatically.
 
+The HUD is enabled by default on new profiles and appears while Rocket League is focused. For an existing profile, open **Overlay studio** and select **Launch overlay** if it is hidden. Match the interface scale to Rocket League's setting. Use borderless/windowed mode for desktop overlays.
+
 Match history, recordings, settings, and songs are stored in `%LOCALAPPDATA%\RL Tracker`. Updates and uninstalling preserve this data. Automatic deletion of game recordings is disabled by default. Personal match history and audio files are not included in the installer.
 
 This repository hosts downloads, release notes, and issue reports. Development source and player data are not published here. GitHub-generated source archives contain this documentation only.
